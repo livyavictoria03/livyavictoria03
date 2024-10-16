@@ -1,5 +1,5 @@
 ## Olá eu sou a Lívya Victória
-- 🔭Em busca do meu primeirop estágio
+- 🔭Em busca de estágio
 - 🌱 Atualmente estou aprendendo Javascript, JQuery, Ajax e Json
 - 📫 contate-me no e-mail: livyaferreira367@gmail.com
 - 😄 Pronouns: ela/dela
